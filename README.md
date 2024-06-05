@@ -1,12 +1,16 @@
-# C_Programs
-C Applications And Complex Programs  
-In This Repository I Solve Various Types Of Problem Statements As :
-1) Problems On Numbers
-2)  Problems On Digits
-3)  Problems On Pattern Printing
-4)  Problems On N Numbers
-5)  Problems On Strings
-6) Problems On Bitwise Operations / Operators
-7) Problems On File Handling
-8)Problems On Recursion .
+# Repository: C_Programs
 
+Welcome to my C_Programs repository ! 
+Here, you'll find solutions to a diverse range of problem statements, 
+including:
+
+1. Number Problems
+2. Digit Problems
+3. Pattern Printing Problems
+4. Problems Involving N Numbers
+5. String Problems
+6. Bitwise Operations/Operators Problems
+7. File Handling Problems
+8. Recursion Problems
+
+Explore and enjoy solving these challenges in C! Feel free to contribute or suggest improvements.
